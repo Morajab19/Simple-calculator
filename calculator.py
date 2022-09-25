@@ -19,3 +19,5 @@ elif (operator== '/'):
     else:    
         result = num1 / num2 
         print("the result is: "+ str(result))
+        print("this is a test")
+
